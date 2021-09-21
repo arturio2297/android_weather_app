@@ -1,0 +1,27 @@
+<resources>
+    <string name="api_key" translatable="false">de4b89c164cd1c4b7f0f78e8021394de</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="hint">Write name of city here...</string>
+    <string name="viewWeatherButton">show weather by city name</string>
+    <string name="showWeatherByLocation">show weather by location</string>
+    <string name="incorrectInput">You entered the wrong city name. Try again</string>
+    <string name="descriptionOfWeather">Weather:</string>
+    <string name="speedWind">Speed of wind:</string>
+    <string name="speed">m/s</string>
+    <string name="temp">Temperature:</string>
+    <string name="fellsLikeTemp">Temperature feels like:</string>
+    <string name="min_temp">Minimal temperature:</string>
+    <string name="max_temp">Maximum temperature:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="pascals">hPa</string>
+    <string name="humidity">Humidity:</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="language">en</string>
+    <string name="current_location">You are here</string>
+    <string name="city_name">City:</string>
+    <string name="province">Province:</string>
+    <string name="country">Country:</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="define_weather_by_location_button">Define weather in this location</string>
+    <string name="find_me_button">Find me!</string>
+</resources>

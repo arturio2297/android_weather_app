@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="hint">Введите имя города сюда...</string>
+    <string name="viewWeatherButton">Показать погоду по названию города</string>
+    <string name="showWeatherByLocation">Показать погоду по расположению</string>
+    <string name="incorrectInput">Вы ввели неверное название города. Попробуйте снова</string>
+    <string name="descriptionOfWeather">Погода:</string>
+    <string name="speedWind">Скорость ветра:</string>
+    <string name="speed">м/c</string>
+    <string name="temp">Температура:</string>
+    <string name="fellsLikeTemp">Температура ощущеается как:</string>
+    <string name="min_temp">инимальная температура:</string>
+    <string name="max_temp">Максимальная температура:</string>
+    <string name="pressure">Давление:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="pascals">гПа</string>
+    <string name="language">ru</string>
+    <string name="current_location">Вы находитесь здесь</string>
+    <string name="city_name">Город:</string>
+    <string name="province">Область:</string>
+    <string name="country">Страна:</string>
+    <string name="unknown_location">Неизвестная локация</string>
+    <string name="define_weather_by_location_button">Узнать погоду в данной локации</string>
+    <string name="find_me_button">Найти меня!</string>
+</resources>
